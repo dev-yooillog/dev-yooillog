@@ -3,7 +3,7 @@
 # Data Scientist(ML/AI Engineer) 
 
 **Email** : data.jonghun.lee@gmail.com  <br>
-**Github** : https://github.com/data-dev-pado<br>
+**Github** : https://github.com/dev-yooillog<br>
 **Linkedin** : https://www.linkedin.com/in/jonghunlee/ <br>
 
 ---
