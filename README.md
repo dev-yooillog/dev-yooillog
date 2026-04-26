@@ -7,10 +7,6 @@
 **Linkedin** : https://www.linkedin.com/in/jonghunlee/ <br>
 
 ---
-## Summary
-데이터 분석가 및 데이터 엔지니어 취업을 목표로 공부하고 있습니다.  
-
----
 ## Skills 
 한번 이상 다루어 본 기술 및 툴
 
