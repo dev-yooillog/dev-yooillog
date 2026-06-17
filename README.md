@@ -8,7 +8,6 @@
 
 ---
 ## Skills 
-한번 이상 다루어 본 기술 및 툴
 
 #### Data
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
@@ -35,15 +34,6 @@
 <img src="https://img.shields.io/badge/CSS3-239120?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=Node.js&logoColor=white"/></a>
-
-#### Others
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> 
   
 ---
 ## Education
