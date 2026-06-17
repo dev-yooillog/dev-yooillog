@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=JongHun%20Lee&fontSize=60)
 
-# Data Scientist(ML/AI Engineer) 
+# Data Scientist 
 
 **Email** : data.jonghun.lee@gmail.com  <br>
 **Github** : https://github.com/dev-yooillog<br>
@@ -44,22 +44,6 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> 
-
-- SQL을 이용하여 데이터 정제, 가공, 분석
-- BigQuery에서 SQL 이용해 데이터 가공, 분석
-- MySQL을 이용해 데이터 가공, 분석
-- MySQL을 이용한 관계형 데이터베이스 설계 및 쿼리 작성
-- SQLite를 활용한 로컬 데이터 저장 및 관리
-- Pandas 이용해서 데이터 처리
-- Numpy와 Matplotlib을 이용한 데이터 처리 및 시각화 경험
-- Pandas를 활용한 데이터 정제, 변환, 분석 경험
-- Scikit-learn을 사용한 머신러닝 모델 구현 및 평가
-- R을 활용한 데이터 전처리 및 탐색적 데이터 분석
-- R을 활용한 T-test 및 일원배치 분산분석(ANOVA) 수행 경험
-- Tableau를 이용한 인터랙티브 대시보드 생성
-- Power BI를 활용한 비즈니스 인텔리전스 리포트 작성
-- Google Colab을 이용한 협업 기반 데이터 분석 프로젝트 수행
-- Kaggle 경진대회를 통해 탐색적 데이터 분석, 데이터 시각화, 베이스라인 모델 구축 및 성능 개선 경험
   
 ---
 ## Education
@@ -76,7 +60,7 @@
   - Hadoop & Linux <br>
   - Tableau <br>
   
-#### Korea National Open University : (Major) Statistics and Data Science (2024.02 ~ 2025.12 졸업예정)
+#### Korea National Open University : (Major) Statistics and Data Science (2024.02 ~ 2026.12 졸업예정)
 
 --- 
 ### Study 🦁🦁
