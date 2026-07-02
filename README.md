@@ -3,7 +3,7 @@
 # Data Scientist 
 
 **Email** : data.jonghun.lee@gmail.com  <br>
-**Github** : https://github.com/dev-yooillog<br>
+**Github** : https://github.com/whiteblackparang<br>
 **Linkedin** : https://www.linkedin.com/in/jonghunlee/ <br>
 
 ---
